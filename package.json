@@ -1,23 +1,16 @@
 {
-  "name": "admin-demo",
+  "name": "notes-app",
   "version": "1.0.0",
-  "description": "demo by schooling",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/spammer007/RENG.git"
-  },
-  "author": "Schooling",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/spammer007/RENG/issues"
-  },
-  "homepage": "https://github.com/spammer007/RENG#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.9.5"
+    "chalk": "^2.4.1",
+    "validator": "^10.8.0",
+    "yargs": "^12.0.2"
   }
 }
